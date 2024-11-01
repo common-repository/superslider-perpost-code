@@ -1,0 +1,85 @@
+# Copyright (C) 2012 SuperSlider-Perpost-Code
+# This file is distributed under the same license as the SuperSlider-Perpost-Code package.
+msgid ""
+msgstr ""
+"Project-Id-Version: SuperSlider-Perpost-Code 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/superslider-perpost-code\n"
+"POT-Creation-Date: 2012-11-17 16:19:07+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-11-17 12:10-0500\n"
+"Last-Translator: Daiv Mowbray <daiv@daivmowbray.com>\n"
+"Language-Team: LANGUAGE <daiv.mowbray@gmail.com>\n"
+"X-Generator: Poedit 1.5.4\n"
+"Language: ES-es\n"
+
+#: superslider-perpost-code.php:145 superslider-perpost-code.php:373
+msgid "Settings"
+msgstr "Configuración"
+
+#: superslider-perpost-code.php:154
+msgid ""
+"Set default options for SuperSlider-PerPost-Code meta boxes viewed on the "
+"post edit screen."
+msgstr ""
+"Establecer opciones predeterminadas para las cajas de meta SuperSlider-"
+"perpost-code en la pantalla de editión"
+
+#: superslider-perpost-code.php:168
+msgid " Css meta box is visible on post - page edit screen"
+msgstr "Css meta caja es visible en post - página de la pantalla de edición"
+
+#: superslider-perpost-code.php:174
+msgid " JavaScript meta box is visible on post - page edit screen"
+msgstr ""
+" JavaScript meta caja es visible en post - página de la pantalla de edición"
+
+#: superslider-perpost-code.php:235
+msgid ""
+"Use shortcode to display your code in the post, example: [custom_js line="
+"\"6\" linenums=\"true\" highlight=\"7-12\"]"
+msgstr ""
+"Utilice código para motrar el código en el post, por ejemplo: [custom_ls "
+"line=\"6\" linenums=\"false\" highlight=\"7,9,12\"]"
+
+#: superslider-perpost-code.php:244
+msgid ""
+"Use shortcode to display your code in the post, example: [custom_css line="
+"\"6\" linenums=\"false\" highlight=\"7,9,12\"]"
+msgstr ""
+"Utilice código para motrar el código en el post, por ejemplo: [custom_css "
+"line=\"6\" linenums=\"false\" highlight=\"7,9,12\"]"
+
+#: superslider-perpost-code.php:374
+msgid "Donate"
+msgstr "Donar"
+
+#. Plugin Name of the plugin/theme
+msgid "SuperSlider-Perpost-Code"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/superslider-perpost-code/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Write css and javascript code directly on your post edit screen on a per "
+"post basis. Meta boxes provide a quick and easy way to enter custom code to "
+"each post. It then loads the code into your frontend theme header and or "
+"footer if the post has custom code."
+msgstr ""
+"Escribir CSS y el código javascript directamente en su pantalla de edición "
+"de mensaje en un mensaje, por. Meta cajas proporcionan una manera rápida y "
+"fácil para entrar en código personalizado para cada puesto. A continuación, "
+"carga el código en el encabezado de tema frontend y el pie de página o si el "
+"puesto tiene un código personalizado."
+
+#. Author of the plugin/theme
+msgid "Daiv Mowbray"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.daivmowbray.com"
+msgstr ""
